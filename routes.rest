@@ -1,10 +1,10 @@
-GET http://localhost:3500/subscribers
+GET http://localhost:4000/subscribers
 
 ###
-GET http://localhost:3500/subscribers/1556
+GET http://localhost:4000/subscribers/1556
 
 ###
-POST http://localhost:3500/subscribers
+POST http://localhost:4000/subscribers
 Content-Type: application/json
 
 {
